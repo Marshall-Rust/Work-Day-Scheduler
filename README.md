@@ -6,4 +6,5 @@ atttempted to copy what others did online and couldnt get most of it to work.
 Feeling very lost on JS and not really sure what im doing.
 
 
-![Alt text] (/Users/marshall/bootcamp/Work-Day-Scheduler/Screen Shot 2022-04-23 at 2.33.38 PM.png)
+
+![Alt text](./Screen%20Shot%202022-04-23%20at%202.33.38%20PM.png "Optional Title")

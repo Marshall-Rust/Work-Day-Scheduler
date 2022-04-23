@@ -11,7 +11,7 @@ $(document).ready(function () {// tells engine to load 1)html & 2)css first.
         //set items in local storage.
         localStorage.setItem(time, text);
     })
-    //load any saved data from LocalStorage - do this for each hour created. Should follow html 24 hour to 12 hour conversion.
+    // found this online
     $("#hour8 .description").val(localStorage.getItem("hour8"));
     $("#hour9 .description").val(localStorage.getItem("hour9"));
     $("#hour10 .description").val(localStorage.getItem("hour10"));
